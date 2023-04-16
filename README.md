@@ -38,11 +38,11 @@ j'ai utilisé L'API PokeAPI car Les avantages de PokeAPI sont nombreux :
 
 2) Facilité d'utilisation : L'API est conçue pour être simple à utiliser, avec une documentation claire et des exemples d'utilisation. Les développeurs peuvent facilement récupérer les données dont ils ont besoin en effectuant des requêtes HTTP vers les points d'extrémité de l'API.
 
-2) Mises à jour fréquentes : PokeAPI est régulièrement mis à jour pour refléter les dernières sorties de la franchise Pokémon. Les développeurs peuvent être sûrs que les données qu'ils récupèrent sont toujours à jour.
+3) Mises à jour fréquentes : PokeAPI est régulièrement mis à jour pour refléter les dernières sorties de la franchise Pokémon. Les développeurs peuvent être sûrs que les données qu'ils récupèrent sont toujours à jour.
 
-Gratuité : PokeAPI est gratuit et open-source, ce qui signifie que les développeurs peuvent l'utiliser sans frais et contribuer à son développement s'ils le souhaitent.
+4) Gratuité : PokeAPI est gratuit et open-source, ce qui signifie que les développeurs peuvent l'utiliser sans frais et contribuer à son développement s'ils le souhaitent.
 
-Flexibilité : Les développeurs peuvent utiliser PokeAPI pour créer une grande variété d'applications, de sites web et de jeux, en fonction de leur créativité et de leurs compétences.
+5) Flexibilité : Les développeurs peuvent utiliser PokeAPI pour créer une grande variété d'applications, de sites web et de jeux, en fonction de leur créativité et de leurs compétences.
 
 En résumé, PokeAPI est une ressource précieuse pour les développeurs qui souhaitent travailler avec des données de la franchise Pokémon, offrant une grande quantité de données, une facilité d'utilisation, des mises à jour fréquentes, une gratuité et une flexibilité.
 
